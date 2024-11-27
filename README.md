@@ -65,7 +65,7 @@ temperature-conversion-model\
 
 # Youtube Tutorial For Better Understanding
 
-![Youtube](https://images.app.goo.gl/DcWbJsAVjRsc41YS9)
+![Youtube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclNIoNM5iARVIRk-bzqsBcD1_8HpMPZw_0vnuvM6xHTQh_G5GWtbNBg0XxwAX7KJ-8uc&usqp=CAU)
 
 [Youtube](https://www.youtube.com/watch?v=BJ385xQVVOk)
 
