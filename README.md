@@ -65,7 +65,7 @@ temperature-conversion-model\
 
 # Youtube Tutorial For Better Understanding
 
-![Youtube](https://www.google.com/imgres?q=neural%20network%20for%20noobs%20YouTube&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBJ385xQVVOk%2Fhq720.jpg)
+![Youtube](https://images.app.goo.gl/DcWbJsAVjRsc41YS9)
 
 [Youtube](https://www.youtube.com/watch?v=BJ385xQVVOk)
 
